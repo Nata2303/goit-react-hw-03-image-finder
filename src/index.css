@@ -41,3 +41,7 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.loadMore{
+  margin: 20px auto;
+}
